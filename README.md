@@ -25,6 +25,7 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
     altrimenti
         giro per gli scaffali controllando la lista
     poso il carrello
-    torno a casa dopo aver pagato
+    vado in cassa a pagare
+    torno a casa
 altrimenti
     rimango a casa                
